@@ -23,4 +23,4 @@ Interface:  HTML/CSS
 
 # Contribuição
 
-Sinta-se à vontade para contribuir com melhorias! Para isso:
+Sinta-se à vontade para contribuir com melhorias!
